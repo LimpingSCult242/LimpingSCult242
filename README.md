@@ -1,20 +1,14 @@
 <h1 align="center">Olá, eu sou o João Vitor 👋</h1>
 
-<p align="center">
-  <strong>Desenvolvedor Back-End em formação | Java • Spring Boot • MySQL</strong>
-</p>
+<h3 align="center">Desenvolvedor Back-End em formação | Java • Spring Boot • MySQL</h3>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas, com experiência em Suporte Técnico e Infraestrutura.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-honorio-1350ab3a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/LimpingSCult242">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-honorio-1350ab3a8/">LinkedIn</a> •
+  <a href="https://github.com/LimpingSCult242">GitHub</a>
 </p>
 
 ---
@@ -32,50 +26,43 @@ Gosto de transformar ideias em projetos práticos, aprender com desafios reais e
 ## Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" />
 </p>
 
 ---
 
 ## Projetos em destaque
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>EcoAlerta</h3>
-      <p>Sistema web para registro, acompanhamento e gerenciamento de ocorrências urbanas e ambientais relacionadas a água, energia e infraestrutura.</p>
-      <p><strong>Tecnologias:</strong> Java, Spring Boot, MySQL, HTML, CSS, JavaScript, Git e GitHub.</p>
-      <a href="https://github.com/LimpingSCult242/ecoalerta-system">Acessar repositório</a>
-    </td>
-    <td width="50%">
-      <h3>ODS 7 - Energia Limpa e Acessível</h3>
-      <p>Projeto web desenvolvido nos primeiros semestres da faculdade, com foco em conscientização sobre energia limpa, sustentável e acessível.</p>
-      <p><strong>Tecnologias:</strong> HTML, CSS e JavaScript.</p>
-      <a href="https://github.com/LimpingSCult242/ods7-energia-limpa">Acessar repositório</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Site da Barbearia</h3>
-      <p>Projeto front-end para apresentação de uma barbearia, desenvolvido para praticar estruturação de páginas, estilização e organização visual.</p>
-      <p><strong>Tecnologias:</strong> HTML, CSS e JavaScript.</p>
-      <a href="https://github.com/LimpingSCult242/Site-Da-Barbearia">Acessar repositório</a>
-    </td>
-    <td width="50%">
-      <h3>JETFIT</h3>
-      <p>Projeto web voltado para prática de desenvolvimento front-end, organização de layout e construção de páginas com foco visual.</p>
-      <p><strong>Tecnologias:</strong> HTML, CSS e JavaScript.</p>
-      <a href="https://github.com/LimpingSCult242/JETFIT">Acessar repositório</a>
-    </td>
-  </tr>
-</table>
+### EcoAlerta
+Sistema web desenvolvido em equipe para registro, acompanhamento e gerenciamento de ocorrências urbanas e ambientais relacionadas a água, energia e infraestrutura.
+
+**Tecnologias:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript, Git e GitHub.  
+**Repositório:** [EcoAlerta](https://github.com/LimpingSCult242/ecoalerta-system)
+
+### ODS 7 - Energia Limpa e Acessível
+Projeto web desenvolvido nos primeiros semestres da faculdade, com foco em conscientização sobre energia limpa, sustentável e acessível.
+
+**Tecnologias:** HTML, CSS e JavaScript.  
+**Repositório:** [ODS 7 - Energia Limpa](https://github.com/LimpingSCult242/ods7-energia-limpa)
+
+### Site da Barbearia
+Projeto front-end para apresentação de uma barbearia, desenvolvido para praticar estruturação de páginas, estilização e organização visual.
+
+**Tecnologias:** HTML, CSS e JavaScript.  
+**Repositório:** [Site da Barbearia](https://github.com/LimpingSCult242/Site-Da-Barbearia)
+
+### JETFIT
+Projeto web voltado para prática de desenvolvimento front-end, organização de layout e construção de páginas com foco visual.
+
+**Tecnologias:** HTML, CSS e JavaScript.  
+**Repositório:** [JETFIT](https://github.com/LimpingSCult242/JETFIT)
 
 ---
 
