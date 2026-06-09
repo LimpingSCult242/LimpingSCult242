@@ -1,6 +1,8 @@
 <h1 align="center">Olá, eu sou o João Vitor 👋</h1>
 
-<h3 align="center">Desenvolvedor Back-End em formação | Java • Spring Boot • MySQL</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+MySQL;Transformando+aprendizado+em+projetos+reais" alt="Typing SVG" />
+</p>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas, com experiência em Suporte Técnico e Infraestrutura.
@@ -33,7 +35,11 @@ Gosto de transformar ideias em projetos práticos, aprender com desafios reais e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="48" title="GitHub" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimpingSCult242&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 ---
@@ -84,5 +90,5 @@ Busco evoluir como desenvolvedor back-end, aplicando meus conhecimentos em proje
 ---
 
 <p align="center">
-  <strong>Em constante evolução, buscando transformar aprendizado em projetos reais.</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Em+constante+evolu%C3%A7%C3%A3o;Buscando+transformar+aprendizado+em+projetos+reais" alt="Typing SVG" />
 </p>
