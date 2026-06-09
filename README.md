@@ -1,17 +1,19 @@
-<h1 align="center">Olá, eu sou o João Vitor 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+MySQL;Transformando+aprendizado+em+projetos+reais" alt="Typing SVG" />
-</p>
+# Olá, eu sou o João Vitor 👋
 
-<p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas, com experiência em Suporte Técnico e Infraestrutura.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=0A66C2&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+MySQL;Transformando+aprendizado+em+projetos+reais" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-honorio-1350ab3a8/">LinkedIn</a> •
-  <a href="https://github.com/LimpingSCult242">GitHub</a>
-</p>
+Estudante de Análise e Desenvolvimento de Sistemas, com experiência em Suporte Técnico e Infraestrutura.
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-honorio-1350ab3a8/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/LimpingSCult242">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
 
 ---
 
@@ -27,20 +29,9 @@ Gosto de transformar ideias em projetos práticos, aprender com desafios reais e
 
 ## Tecnologias e ferramentas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" title="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="48" title="GitHub" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimpingSCult242&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais usadas" />
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github&theme=dark" alt="Tecnologias" />
+</div>
 
 ---
 
@@ -89,6 +80,8 @@ Busco evoluir como desenvolvedor back-end, aplicando meus conhecimentos em proje
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Em+constante+evolu%C3%A7%C3%A3o;Buscando+transformar+aprendizado+em+projetos+reais" alt="Typing SVG" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Em+constante+evolu%C3%A7%C3%A3o;Buscando+transformar+aprendizado+em+projetos+reais" alt="Typing SVG" />
+
+</div>
