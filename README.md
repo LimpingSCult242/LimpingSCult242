@@ -50,13 +50,21 @@ Projeto web desenvolvido nos primeiros semestres da faculdade, com foco em consc
 **Repositório:** [ODS 7 - Energia Limpa](https://github.com/LimpingSCult242/ods7-energia-limpa)
 
 ### Site da Barbearia
-Projeto front-end para apresentação de uma barbearia, desenvolvido para praticar estruturação de páginas, estilização e organização visual.
+Projeto desenvolvido em 2020, no início da minha jornada em programação, durante meus primeiros estudos em desenvolvimento web.
+
+O objetivo foi criar um site institucional para uma barbearia, praticando estruturação de páginas, organização de conteúdo, estilização com CSS e construção de uma interface visual simples e funcional.
+
+Esse projeto representa uma das minhas primeiras experiências aplicando HTML, CSS e JavaScript na prática.
 
 **Tecnologias:** HTML, CSS e JavaScript.  
 **Repositório:** [Site da Barbearia](https://github.com/LimpingSCult242/Site-Da-Barbearia)
 
 ### JETFIT
-Projeto web voltado para prática de desenvolvimento front-end, organização de layout e construção de páginas com foco visual.
+Projeto desenvolvido em 2020, quando eu ainda estava começando meus estudos em programação e aprendendo os fundamentos do desenvolvimento web.
+
+A proposta foi criar uma página voltada ao segmento fitness, praticando layout, organização visual, navegação entre seções e aplicação dos conceitos iniciais de HTML, CSS e JavaScript.
+
+Esse projeto faz parte da minha evolução como desenvolvedor e mostra o começo da minha trajetória na criação de páginas web.
 
 **Tecnologias:** HTML, CSS e JavaScript.  
 **Repositório:** [JETFIT](https://github.com/LimpingSCult242/JETFIT)
